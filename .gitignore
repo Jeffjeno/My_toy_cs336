@@ -1,0 +1,4 @@
+# .gitignore 文件中加入：
+__pycache__/
+*.pyc
+.vscode/
